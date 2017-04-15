@@ -1,3 +1,7 @@
+* Uma das caracteristicas importantes do Cobol é a sua auto-documentação; 
+* Um programador pode entender um programa COBOL pela simples leitura de 
+* sua codificação.
+
 Identification Division.
 
 Program-ID. Quarter.
@@ -9,9 +13,9 @@ Security. Não ha considerações de segurança para Quarter.
 *
 * Um resumo do porgrama Quarter --
 *
-* Quarter lê um arquivo contendo as vendas mensais dos vendedores para os 3 meses de um trimestre
-* juntamente com o nome do vendedor e a cota de venda do trimestre.
-* Imprime um relatório mostrando o vendedor:
+* Quarter lê um arquivo contendo as vendas mensais dos vendedores para 
+* os 3 meses de um trimestre juntamente com o nome do vendedor e a cota 
+* de venda do trimestre.  Imprime um relatório mostrando o vendedor:
 *
 * Nome     Venda do Trimestre    Cota
 * 
