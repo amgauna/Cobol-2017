@@ -10,8 +10,8 @@ Installation. Penn State University -- York Campus.
 Date-Written. May 1983.
 Date-Compiled. May 9, 1983.
 Security. Não ha considerações de segurança para Quarter.
-*
-* Um resumo do porgrama Quarter --
+      
+* Um resumo do programa Quarter --
 *
 * Quarter lê um arquivo contendo as vendas mensais dos vendedores para 
 * os 3 meses de um trimestre juntamente com o nome do vendedor e a cota 
