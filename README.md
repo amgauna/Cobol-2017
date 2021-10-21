@@ -1,7 +1,9 @@
 # * Cobol
 # * Exemplo de Código
 # 
-# * Uma das caracteristicas importantes do Cobol é a sua auto-documentação; um programador pode entender um programa COBOL pela simples leitura de sua codificação.
+# * Uma das caracteristicas importantes do Cobol é a sua 
+# * auto-documentação; um programador pode entender um 
+# * programa COBOL pela simples leitura de sua codificação.
 #
 # Identification Division.
 # Program-ID. Quarter.
