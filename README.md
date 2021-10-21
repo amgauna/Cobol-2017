@@ -1,6 +1,6 @@
 # * Cobol
 # * Exemplo de Código
-# 
+# *
 # * Uma das caracteristicas importantes do Cobol 
 # * é a sua auto-documentação; um programador 
 # * pode entender um programa COBOL pela 
@@ -23,10 +23,10 @@
 # * mostrando o vendedor:
 # *
 # * Nome     Venda do Trimestre    Cota
-# * 
 # * Jones    $ 42.000,98           $ 40.000,00
 # * Smith    $ 59.000,67           $ 60.000,00
 # * Yost     $ 47.893,00           $ 45.000,00
+# 
 # Environment Division.
 # Configuration Section.
 # Source-Computer. IBM-370.
