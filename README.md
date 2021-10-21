@@ -16,9 +16,9 @@
 # * Um resumo do programa Quarter --
 # *
 # * Quarter lê um arquivo contendo as vendas mensais dos vendedores 
-# * para os 3 meses de um trimestre juntamente com o nome do vendedor
-# * e a cota de venda do trimestre. Imprime um relatório mostrando 
-# * o vendedor:
+# * para os 3 meses de um trimestre juntamente com o nome do
+# * vendedor e a cota de venda do trimestre. Imprime um relatório
+# * mostrando o vendedor:
 # *
 # * Nome     Venda do Trimestre    Cota
 # * 
