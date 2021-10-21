@@ -40,7 +40,7 @@
 # FD Arquivo-Vendas
 #   Label Records are Standard
 #   Record Contains 80 Characters
-#   .
+#   
 # 01 Registro-Vendas
 #   05 Nome-Registro-Vendas         PIC X(15).
 #   05 Vendas-Mes-1-Registro-Vendas PIC S9(4)V99.
@@ -52,7 +52,7 @@
 # FD Relat-Trimestral
 #   Label Records are Omitted
 #   Record Contains 132 Characters
-#   .
+#   
 # 01 Linha-Relat-Trimestral          PIC X(132).
 #      
 # Working-Storage-Section.
