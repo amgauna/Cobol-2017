@@ -1,5 +1,4 @@
 # * Cobol
-# 
 # * Exemplo de Código
 # 
 # * Uma das caracteristicas importantes do Cobol é a sua auto-documentação; 
@@ -75,21 +74,18 @@
 #      Perform 040-Imprimir-Linhas-Relatorio
 #         Ultil Fim-Arquivo-Vendas = "T"
 #      Perform 050-Termino-E-encerramento
-#      Stop RUN
-#      .
+#      Stop RUN     
 #      
 # 020 - Inicializar-E-Preparar.
 #      Open Input Arquivo-Vendas
 #           Output Relat-Trimestral
 #      Move "F" to Fim-Arquivo-Vendas
 #      Perform 030-Ler-Arquivo-Vendas
-#      .
-#      
+#           
 # 030 - Ler-Arquivo-Vendas.
 #      Read Arquivo-Vendas
 #           At END
-#                 Move "T" to Fim-Arquivo-Vendas
-#      .
+#                 Move "T" to Fim-Arquivo-Vendas     
 #      
 # 040 - Imprimir-Linhas-Relatório.
 #      Move Nome-Registro-Vendas TO Nome-Trabalho
@@ -101,8 +97,7 @@
 #      Write Linha-Relat-Trimestral
 #            From Linha-Relatorio-Trabalho
 #      Perform 030-Ler-Arquivo-Vendas
-#      .
-#      
+#          
 # 050 - Termino-E-Encerramento.
 #      CLOSE Arquivo-Vendas
 #            Relat-Trimestral
